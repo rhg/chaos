@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>fonts/segoeui.ttf</file>
+        <file>fonts/SegMDL2.ttf</file>
+        <file>fonts/segoeuib.ttf</file>
+        <file>fonts/segoeuil.ttf</file>
+        <file>fonts/segoeuisl.ttf</file>
+        <file>fonts/seguisb.ttf</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Connection.qml</file>
+        <file>CoreBuffer.qml</file>
+        <file>Avatar.qml</file>
+        <file>Utils.js</file>
+        <file>ChaosBuffer.qml</file>
+        <file>Chaos.js</file>
+        <file>ReactiveIcon.qml</file>
+        <file>ServerModel.qml</file>
+        <file>ServerBar.qml</file>
+        <file>ServerBarForm.ui.qml</file>
+        <file>Servers.qml</file>
+        <file>HomeButton.qml</file>
+        <file>Friends.qml</file>
+        <file>BufferList.qml</file>
+        <file>FriendList.qml</file>
+        <file>MyParser.qml</file>
+    </qresource>
+</RCC>
